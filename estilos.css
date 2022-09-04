@@ -6,7 +6,7 @@
 }
 body{
     background: #00FFFF;
-    background: url(/one\ piece.jpg);
+    background: url(piece.jpg);
     background-size: cover;
     height: 0vh;
 }
