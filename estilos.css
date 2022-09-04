@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(/imagenes/fondo\ body.jpg);
+    background-image: url(body.jpg);
     background-repeat: no-repeat;
     background-position: right top;
     background-attachment: fixed;
